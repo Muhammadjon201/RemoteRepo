@@ -16,6 +16,7 @@ struct ContentView: View {
                 Text("Newyork News")
                 Text("AI News")
                 Text("Pull")
+                Image(systemName: "clock")
             }
            
                 
