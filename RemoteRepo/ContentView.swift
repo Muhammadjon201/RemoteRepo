@@ -10,7 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationView{
-            Text("BBC News")
+            VStack{
+                Text("BBC News")
+                Text("CNN News")
+                Text("Newyork News")
+            }
+           
+                
                 .navigationBarTitle("BBC").navigationBarTitleDisplayMode(.inline)
         }
             
