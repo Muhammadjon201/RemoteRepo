@@ -15,6 +15,7 @@ struct ContentView: View {
                 Text("CNN News")
                 Text("Newyork News")
                 Text("AI News")
+                Text("Pull")
             }
            
                 
